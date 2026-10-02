@@ -38,7 +38,7 @@
 
 ### For Players (Java Client)
 1. Install **Fabric Loader** (v0.19.5 or higher) for Minecraft **26.3**.
-2. Download **Fabric Language Kotlin** and **Fabric API**.
+2. Download **Fabric API** (Kotlin Runtime is now directly bundled into Magnus Eterno).
 3. Place `magnus-platform-<version>-all.jar` into your `.minecraft/mods` folder.
 4. Launch the game!
 
