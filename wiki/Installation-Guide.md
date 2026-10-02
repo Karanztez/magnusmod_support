@@ -15,7 +15,7 @@
   - [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
 
 ### ขั้นตอนการติดตั้ง
-1. ดาวน์โหลดไฟล์ม็อด `magnus-platform-<version>-all.jar` จาก [Modrinth](https://modrinth.com/mod/magnusmod)
+1. ดาวน์โหลดไฟล์ม็อด `magnus-platform-<version>-all.jar` จาก [Modrinth](https://modrinth.com/mod/magnus-eterno)
 2. นำไฟล์ม็อดและ Dependencies ไปวางไว้ที่โฟลเดอร์:
    - **Windows:** `%appdata%\.minecraft\mods`
    - **macOS:** `~/Library/Application Support/minecraft/mods`

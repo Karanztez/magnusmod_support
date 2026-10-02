@@ -33,6 +33,6 @@
 
 ## 🔗 ลิงก์ที่เกี่ยวข้อง
 
-- [ดาวน์โหลดเวอร์ชันล่าสุดบน Modrinth](https://modrinth.com/mod/magnusmod)
+- [ดาวน์โหลดเวอร์ชันล่าสุดบน Modrinth](https://modrinth.com/mod/magnus-eterno)
 - [แจ้งปัญหาและข้อเสนอแนะ (GitHub Issues)](https://github.com/Karanztez/magnusmod_support/issues)
 - [GitHub Releases](https://github.com/Karanztez/magnusmod/releases)

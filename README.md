@@ -1,8 +1,8 @@
 # 🌟 Magnus Eterno — Official Support & Community Wiki
 
-[![Minecraft](https://img.shields.io/badge/Minecraft-26.3-brightgreen.svg)](https://modrinth.com/mod/magnusmod)
+[![Minecraft](https://img.shields.io/badge/Minecraft-26.3-brightgreen.svg)](https://modrinth.com/mod/magnus-eterno)
 [![Loader](https://img.shields.io/badge/Loader-Fabric%20%7C%20Geyser-blue.svg)](https://fabricmc.net/)
-[![Modrinth](https://img.shields.io/badge/Modrinth-Magnus%20Eterno-00AF5C.svg)](https://modrinth.com/mod/magnusmod)
+[![Modrinth](https://img.shields.io/badge/Modrinth-Magnus%20Eterno-00AF5C.svg)](https://modrinth.com/mod/magnus-eterno)
 [![Issues](https://img.shields.io/github/issues/Karanztez/magnusmod_support)](https://github.com/Karanztez/magnusmod_support/issues)
 
 > **Magnus Eterno** is a spiritual RPG and roleplay mod for Minecraft that introduces an intricate karmic cause-and-effect ledger, character lineages, rebirth cycles across dimensions, and seamless cross-platform play between **Java (Fabric)** and **Bedrock (Geyser)**.
@@ -12,7 +12,7 @@
 ## 📚 Quick Navigation
 
 - [📖 Official Wiki (Full Documentation)](https://github.com/Karanztez/magnusmod_support/wiki)
-- [📥 Download Latest Release (Modrinth)](https://modrinth.com/mod/magnusmod)
+- [📥 Download Latest Release (Modrinth)](https://modrinth.com/mod/magnus-eterno)
 - [🐛 Report a Bug / Issue](https://github.com/Karanztez/magnusmod_support/issues/new?template=bug_report.md)
 - [💡 Suggest a Feature](https://github.com/Karanztez/magnusmod_support/issues/new?template=feature_request.md)
 
