@@ -14,8 +14,8 @@
   - [Fabric API](https://modrinth.com/mod/fabric-api)
   
 ### ขั้นตอนการติดตั้ง
-1. ดาวน์โหลดไฟล์ม็อด `magnus-platform-<version>-all.jar` จาก [Modrinth](https://modrinth.com/mod/magnus-eterno)
-2. นำไฟล์ม็อดและ Fabric API ไปวางไว้ที่โฟลเดอร์ (Kotlin Runtime ฝังในตัวม็อดแล้ว ไม่ต้องลงเสริม):
+1. ดาวน์โหลดไฟล์ม็อด Fabric (`eterno-<version>.jar`) จาก [Modrinth (Fabric Mod: magnus-eterno)](https://modrinth.com/mod/magnus-eterno)
+2. นำไฟล์ม็อดและ Fabric API ไปวางไว้ที่โฟลเดอร์ `mods` (Kotlin Runtime ถูกฝังในตัวม็อดแล้ว ไม่ต้องลงเสริม):
    - **Windows:** `%appdata%\.minecraft\mods`
    - **macOS:** `~/Library/Application Support/minecraft/mods`
    - **Linux:** `~/.minecraft/mods`

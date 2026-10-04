@@ -2,7 +2,7 @@
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-26.3-brightgreen.svg)](https://modrinth.com/mod/magnus-eterno)
 [![Loader](https://img.shields.io/badge/Loader-Fabric%20%7C%20Geyser-blue.svg)](https://fabricmc.net/)
-[![Modrinth](https://img.shields.io/badge/Modrinth-Magnus%20Eterno-00AF5C.svg)](https://modrinth.com/mod/magnus-eterno)
+[![Modrinth](https://img.shields.io/badge/Modrinth-Magnus%20Eterno%20(Mod)-00AF5C.svg)](https://modrinth.com/mod/magnus-eterno)
 [![Issues](https://img.shields.io/github/issues/Karanztez/magnusmod_support)](https://github.com/Karanztez/magnusmod_support/issues)
 
 > **Magnus Eterno** is a spiritual RPG and roleplay mod for Minecraft that introduces an intricate karmic cause-and-effect ledger, character lineages, rebirth cycles across dimensions, and seamless cross-platform play between **Java (Fabric)** and **Bedrock (Geyser)**.
@@ -12,7 +12,7 @@
 ## 📚 Quick Navigation
 
 - [📖 Official Wiki (Full Documentation)](https://github.com/Karanztez/magnusmod_support/wiki)
-- [📥 Download Latest Release (Modrinth)](https://modrinth.com/mod/magnus-eterno)
+- [📥 Download Latest Fabric Mod (Modrinth)](https://modrinth.com/mod/magnus-eterno)
 - [🐛 Report a Bug / Issue](https://github.com/Karanztez/magnusmod_support/issues/new?template=bug_report.md)
 - [💡 Suggest a Feature](https://github.com/Karanztez/magnusmod_support/issues/new?template=feature_request.md)
 
@@ -29,7 +29,8 @@
 - **Ancestral Relics & Item Provenance:** Weapons and tools remember their creators, wielders, and significant historical battles.
 
 ### 🌐 Cross-Platform (Fabric + Bedrock Geyser)
-- **Universal Flowey UI:** Custom modal screens, HUD karma gauges, and spiritual tomes designed for both PC mouse/keyboard and Bedrock mobile/touch/console.
+- **Isolated Custom JSON UI:** Custom modal screens, spiritual book UI, and HUD karma gauges designed for both PC mouse/keyboard and Bedrock mobile/touch/console without overriding vanilla server forms (`/warp`, `/shop`, etc.).
+- **3D Handheld Models & Attachables:** Custom 3D items (such as the Karma Tome) fully rigged with calibrated 1st person and 3rd person holding animations.
 - **Pure Vanilla Compatibility:** Bedrock players join via Geyser without requiring client-side Java installation.
 
 ---

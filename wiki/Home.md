@@ -24,15 +24,15 @@
 - [🎮 คำสั่งและการใช้งาน (Commands & Permissions)](Commands-and-Permissions)
   - รายการคำสั่งสำหรับผู้เล่นทั่วไป (`/karma`, `/lineage`, `/meditate`)
   - รายการคำสั่งสำหรับแอดมินเซิร์ฟเวอร์
-- [📱 การเล่นข้ามแพลตฟอร์ม Bedrock (Geyser Setup)](Bedrock-and-Geyser)
-  - การติดตั้ง Geyser Resource Pack (`.mcpack`)
-  - การแสดงผลหน้าต่าง UI Flowey บนมือถือและคอนโซล
+- [📱 การเล่นข้ามแพลตฟอร์ม Bedrock & Geyser (Custom UI & 3D Models)](Bedrock-and-Geyser)
+  - การติดตั้ง Geyser Server Bundle (`.zip`) และ Add-on (`.mcaddon`)
+  - ระบบเมนู Custom Form UI และโมเดล 3 มิติในมือ
 - [❓ คำถามที่พบบ่อย (FAQ & Troubleshooting)](FAQ)
 
 ---
 
 ## 🔗 ลิงก์ที่เกี่ยวข้อง
 
-- [ดาวน์โหลดเวอร์ชันล่าสุดบน Modrinth](https://modrinth.com/mod/magnus-eterno)
+- [ดาวน์โหลดม็อด Fabric บน Modrinth (Mod)](https://modrinth.com/mod/magnus-eterno)
 - [แจ้งปัญหาและข้อเสนอแนะ (GitHub Issues)](https://github.com/Karanztez/magnusmod_support/issues)
 - [GitHub Releases](https://github.com/Karanztez/magnusmod/releases)
